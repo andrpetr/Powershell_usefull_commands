@@ -1,0 +1,2 @@
+# Powershell_usefull_commands
+Rreikalingos komanndos
